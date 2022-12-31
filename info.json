@@ -1,0 +1,157 @@
+{
+    "header": [
+        " *   ",
+        " *   如非需要调试，本文件可删除",
+        " *   非专业人员可将本文件删除",
+        " *   详细介绍请参考: https://bazhan.wang/faq#INFO-JSON",
+        " *   "
+    ],
+    "resources": [
+        {
+            "url": "https://cdms.vip/new-year/",
+            "path": "index.html",
+            "saved": true,
+            "size": 10218,
+            "children": [
+                {
+                    "url": "https://user-images.githubusercontent.com/9720597/32018236-8e466e82-b9c9-11e7-84a0-038d861bfcd4.png",
+                    "path": "img/32018236-8e466e82-b9c9-11e7-84a0-038d861bfcd4.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://pv.sohu.com/cityjson?ie=utf-8",
+                    "saved": false
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/js/fscreen.js",
+                    "path": "js/fscreen.js",
+                    "saved": true,
+                    "size": 1597,
+                    "children": []
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/js/Stage.js",
+                    "path": "js/Stage.js",
+                    "saved": true,
+                    "size": 4084,
+                    "children": []
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/js/MyMath.js",
+                    "path": "js/MyMath.js",
+                    "saved": true,
+                    "size": 637,
+                    "children": []
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/js/script.js",
+                    "path": "js/script.js",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/fonts/css.css",
+                    "path": "css/css.css",
+                    "saved": true,
+                    "size": 971,
+                    "children": [
+                        {
+                            "url": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOy8mJrrg.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOwcmJrrg.woff2",
+                            "saved": false
+                        },
+                        {
+                            "url": "https://fonts.gstatic.com/s/russoone/v14/Z9XUDmZRWg6M1LvRYsHOz8mJ.woff2",
+                            "saved": false
+                        }
+                    ]
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/css/style.css",
+                    "path": "css/style.css",
+                    "saved": true,
+                    "size": 4887,
+                    "children": []
+                },
+                {
+                    "url": "https://fireworks.nianbroken.top/NianBrokenStorage/images/favicon.png",
+                    "path": "img/favicon.png",
+                    "saved": true,
+                    "size": 0,
+                    "children": []
+                }
+            ]
+        }
+    ],
+    "alias": "cdms-vip-7p9e0y6",
+    "info": {
+        "remark": [],
+        "title": "Happy new year!",
+        "domain": "cdms.vip",
+        "origin": "https://cdms.vip",
+        "ip": "104.21.54.83",
+        "main": "index.html",
+        "url": "https://cdms.vip/new-year/",
+        "totalSize": "22.4 kB",
+        "request": {
+            "headers": {
+                "accept": "text/html,*/*",
+                "accept-language": "zh-CN,zh;q=0.9",
+                "cache-control": "no-cache",
+                "cookie": "",
+                "referer": "https://cdms.vip/new-year/",
+                "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+                "x-scraper-website": "https://bazhan.wang/"
+            }
+        },
+        "response": {
+            "responseUrl": "https://cdms.vip/new-year/",
+            "redirects": [],
+            "statusCode": 200,
+            "headers": {
+                "date": "Sat, 31 Dec 2022 16:10:42 GMT",
+                "content-type": "text/html; charset=utf-8",
+                "transfer-encoding": "chunked",
+                "connection": "close",
+                "last-modified": "Sat, 31 Dec 2022 15:26:45 GMT",
+                "access-control-allow-origin": "*",
+                "expires": "Sat, 31 Dec 2022 16:20:42 GMT",
+                "cache-control": "max-age=600",
+                "x-proxy-cache": "MISS",
+                "x-github-request-id": "4BC2:625B:50DF85:568FE7:63B05F02",
+                "via": "1.1 varnish",
+                "age": "0",
+                "x-served-by": "cache-nrt-rjtf7700026-NRT",
+                "x-cache": "MISS",
+                "x-cache-hits": "0",
+                "x-timer": "S1672503042.205200,VS0,VE209",
+                "vary": "Accept-Encoding",
+                "x-fastly-request-id": "9988208c3713e139f45a19e723ee94f783591ae4",
+                "cf-cache-status": "DYNAMIC",
+                "report-to": "{\"endpoints\":[{\"url\":\"https:\\/\\/a.nel.cloudflare.com\\/report\\/v3?s=qGsVfc%2Bx%2FLThxsYrMT98hiZJmtAU9qRZCWa49xEiKGzEZwk1I6tKD6kiAPE0d5npTVMfYsWibh%2Ba4OYvasb4odlNFozj2U2waPE2sC3327nnwo2OVqnunNlhNA%3D%3D\"}],\"group\":\"cf-nel\",\"max_age\":604800}",
+                "nel": "{\"success_fraction\":0,\"report_to\":\"cf-nel\",\"max_age\":604800}",
+                "server": "cloudflare",
+                "cf-ray": "7824496dbd60f5d4-NRT",
+                "alt-svc": "h3=\":443\"; ma=86400, h3-29=\":443\"; ma=86400"
+            }
+        },
+        "time": {
+            "start": "2022-12-31T16:10:42.146Z",
+            "end": "2022-12-31T16:10:43.327Z"
+        }
+    },
+    "options": {
+        "url": "https://cdms.vip/new-year/",
+        "referer": "",
+        "cookies": "",
+        "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36",
+        "formatter": [],
+        "filenameGenerator": "byType"
+    }
+}
